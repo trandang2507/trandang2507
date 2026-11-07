@@ -16,8 +16,6 @@
 [![Gmail](https://img.shields.io/badge/Email-trandang25207@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trandang25207@gmail.com)
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Your%20Name-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id) -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=trandang2507&label=Profile%20views&color=0e75b6&style=flat)
-
 </div>
 
 ---
